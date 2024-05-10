@@ -9,3 +9,4 @@ The first Step in this project was to clean the data to ensure accurate analysis
 Once the data was ready, I generated custom metrics to look at the data in a different way. For example, Revenue Per Customer or RPC which tells us how much revenue we are generaing per customer. 
 
 Ultimately, the analysis showcases the efficacy of Power BI in unraveling complex sales dynamics and driving informed decision-makg for enhanced business growth
+![image](https://github.com/Pankti03/Revenu-Analysis/assets/48742709/814211b1-c9ed-46b1-a929-3f51b8a3af06)
