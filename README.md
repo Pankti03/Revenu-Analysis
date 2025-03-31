@@ -9,3 +9,4 @@ Ultimately, the analysis showcases the efficacy of Power BI in unraveling comple
 
 
 Powerbi Link: https://app.powerbi.com/reportEmbed?reportId=0e1b3ac6-e474-49b5-b2ba-5e7f993e4b4a&autoAuth=true&ctid=a8eec281-aaa3-4dae-ac9b-9a398b9215e7
+<img width="1469" alt="Screenshot 2025-03-30 at 5 33 53 PM" src="https://github.com/user-attachments/assets/34cc0a46-8ced-4209-8288-6647d96066fc" />
