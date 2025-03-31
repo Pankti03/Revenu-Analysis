@@ -8,5 +8,4 @@ Once the data was ready, I generated custom metrics to look at the data in a dif
 Ultimately, the analysis showcases the efficacy of Power BI in unraveling complex sales dynamics and driving informed decision-makg for enhanced business growth.
 
 
-Powerbi Link: https://app.powerbi.com/view?r=eyJrIjoiZjMwZjE3NWUtMWIxNS00NTA2LWJkMTItZDg0Y2RhYjVkMTU2IiwidCI6ImE4ZWVjMjgxLWFhYTMtNGRhZS1hYzliLTlhMzk4YjkyMTVlNyIsImMiOjN9
-![image](https://github.com/Pankti03/Revenu-Analysis/assets/48742709/814211b1-c9ed-46b1-a929-3f51b8a3af06)
+Powerbi Link: https://app.powerbi.com/reportEmbed?reportId=0e1b3ac6-e474-49b5-b2ba-5e7f993e4b4a&autoAuth=true&ctid=a8eec281-aaa3-4dae-ac9b-9a398b9215e7
